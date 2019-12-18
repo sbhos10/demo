@@ -1,12 +1,10 @@
-# demo
-this is my first repository
+## Here is the list
 
-- point 1
-- point 2
+- finance
+- accounts
 
-___
-
-'''
-print('hello')
-print('world')
-'''
+| finance  |[Fina![](https://raw.githubusercontent.com/sbhos10/demo/master/images/stock_ex.jpg)nce](https://raw.githubusercontent.com/sbhos10/demo/master/images/stock_ex.jpg "Finance")   |
+| :------------: | :------------: |
+|[Accounts](https://raw.githubusercontent.com/sbhos10/demo/master/images/stock_ex.jpg "Accounts")   | Accounts  |
+|Banking   |   |
+|   | Energy  |
