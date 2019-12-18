@@ -6,7 +6,6 @@ this is my first repository
 
 ___
 
-'''
 print('hello')
 print('world')
-'''
+
